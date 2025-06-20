@@ -9,3 +9,6 @@ Kubernates Setup using Terraform in Azure
 -> Terraform Plan
 
 -> Terraform Apply
+
+# Terraform State
+Terraform State and Lock file has been stored in Container
